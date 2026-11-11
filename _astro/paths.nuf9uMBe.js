@@ -1,0 +1,1 @@
+function e(e,t){return`${`/${e.replace(/^\/+|\/+$/g,``)}/`.replace(/^\/\/$/,`/`)}${t.replace(/^\/+/,``)}`}function t(t){return e(`/Fremdsprachencoach/`,t)}export{t as n,e as t};
